@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:57:29.760704+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-01-13T23:54:21.136225+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -67,6 +67,19 @@
           "time_info": "[06时41分 ~ 15时02分]"
         },
         {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时54分]"
+        },
+        {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3763132",
           "source": "华尔街见闻",
@@ -78,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时55分 ~ 22时57分]"
+          "appearance_count": 15,
+          "time_info": "[11时55分 ~ 23时54分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -104,21 +117,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时55分 ~ 22时57分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时57分]"
+          "appearance_count": 15,
+          "time_info": "[11时55分 ~ 23时54分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -143,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时55分 ~ 22时57分]"
+          "appearance_count": 15,
+          "time_info": "[11时55分 ~ 23时54分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -213,6 +213,17 @@
           "time_info": "[01时00分 ~ 07时31分]"
         },
         {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时38分 ~ 23时54分]"
+        },
+        {
           "title": "美国两州把特朗普政府告了",
           "url": "https://news.ifeng.com/c/8pslTiqBz0e",
           "source": "凤凰网",
@@ -224,15 +235,15 @@
           "time_info": "[17时01分 ~ 18时53分]"
         },
         {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：将在底特律谈论经济。",
+          "url": "https://wallstreetcn.com/livenews/3036280",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "七国集团领导人将在达沃斯与美国总统特朗普讨论乌克兰问题。（英国金融时报）",
@@ -246,15 +257,26 @@
           "time_info": "19时39分"
         },
         {
-          "title": "WTI原油日内涨幅达3.0%，报61.1美元/桶。美国总统特朗普取消与伊朗的会议（安排）。",
-          "url": "https://wallstreetcn.com/livenews/3036257",
+          "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。",
+          "url": "https://wallstreetcn.com/livenews/3036279",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "23时54分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260113233739122800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "英媒：G7乌克兰盟友将寻求特朗普就乌克兰安全保障问题给予个人背书",
@@ -299,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
+          "url": "https://flash.jin10.com/detail/20260113233652947800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -385,6 +418,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时41分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报61.1美元/桶。美国总统特朗普取消与伊朗的会议（安排）。",
+          "url": "https://wallstreetcn.com/livenews/3036257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
         },
         {
           "title": "白宫：特朗普并没有授意司法部调查鲍威尔",
@@ -637,6 +682,18 @@
           "time_info": "[03时01分 ~ 03时37分]"
         },
         {
+          "title": "特朗普的石油“变脸记”",
+          "url": "https://www.toutiao.com/trending/7593644852442054699/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普政府再度施压美联储 全球多国央行“齐撑”鲍威尔",
           "url": "https://flash.jin10.com/detail/20260113163728156800",
           "source": "金十数据",
@@ -679,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "美国总统特朗普：将在底特律谈论经济。",
+          "url": "https://flash.jin10.com/detail/20260113233358056800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "面对特朗普挑战，哈佛国际新生仍创2002年以来新高",
@@ -929,7 +997,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -973,7 +1041,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -984,7 +1052,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -1009,17 +1077,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "特朗普的石油“变脸记”",
-          "url": "https://www.toutiao.com/trending/7593644852442054699/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "共和党要员抨击美国司法部调查，特朗普“驯服”美联储计划遇阻力",
@@ -1058,7 +1115,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -1142,6 +1199,18 @@
           "time_info": "[05时40分 ~ 06时41分]"
         },
         {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
+        },
+        {
           "title": "美股小盘股创七年来对大盘股最长连胜记录",
           "url": "https://flash.jin10.com/detail/20260113060720442800",
           "source": "金十数据",
@@ -1201,6 +1270,17 @@
           "time_info": "[05时40分 ~ 06时41分]"
         },
         {
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "美国CPI数据公布后，美股股指期货短线拉升",
           "url": "https://wallstreetcn.com/livenews/3036204",
           "source": "华尔街见闻-快讯",
@@ -1210,17 +1290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3036251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "L3Harris美股盘前涨超10%，据彭博，美国国防部将向L3Harris的导弹部门投资10亿美元。",
@@ -1240,7 +1309,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -1284,7 +1353,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         }
@@ -1303,8 +1372,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时55分 ~ 22时57分]"
+          "appearance_count": 15,
+          "time_info": "[11时55分 ~ 23时54分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1313,11 +1382,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时55分 ~ 22时57分]"
+          "appearance_count": 15,
+          "time_info": "[11时55分 ~ 23时54分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1400,6 +1470,18 @@
           "time_info": "[05时40分 ~ 06时41分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时54分]"
+        },
+        {
           "title": "iPhone官宣接入Gemini",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
           "source": "bilibili 热搜",
@@ -1410,17 +1492,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 15时02分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时57分]"
         },
         {
           "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
@@ -1618,8 +1689,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时01分 ~ 22时57分]"
+          "appearance_count": 10,
+          "time_info": "[17时01分 ~ 23时54分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
