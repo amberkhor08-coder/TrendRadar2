@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:48:11.900886+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-01-14T17:01:40.174310+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -98,6 +98,31 @@
           "time_info": "01时03分"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 17时01分]"
+        },
+        {
           "title": "美国总统特朗普：我们将对委内瑞拉大有裨益，我是他们最大的粉丝。",
           "url": "https://flash.jin10.com/detail/20260114030817126800",
           "source": "金十数据",
@@ -107,6 +132,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "伊朗高级官员：在美国总统特朗普发出威胁之际，华盛顿与德黑兰之间的“直接沟通”已中断。",
+          "url": "https://flash.jin10.com/detail/20260114164141311800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "美国总统特朗普：加州的情况糟透了。",
@@ -154,28 +201,16 @@
           "time_info": "03时34分"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            10
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时48分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时01分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -454,17 +489,6 @@
           "time_info": "[02时59分 ~ 03时34分]"
         },
         {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗最好老实点。",
           "url": "https://flash.jin10.com/detail/20260114055446897800",
           "source": "金十数据",
@@ -539,9 +563,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "市场消息：美国中东问题特使威特科夫和特朗普的女婿库什纳计划尽快访问莫斯科，与普京会面；目前该计划尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260114163609960800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
@@ -751,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "美国总统特朗普称赞2000亿美元抵押贷款债券购买计划的巨大影响。",
@@ -1065,8 +1111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 17时01分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1246,8 +1292,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时01分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
