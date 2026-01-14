@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:15:21.560737+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-01-14T13:51:26.702763+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -109,17 +109,6 @@
           "time_info": "03时34分"
         },
         {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "美国总统特朗普：加州的情况糟透了。",
           "url": "https://flash.jin10.com/detail/20260114030723238800",
           "source": "金十数据",
@@ -131,6 +120,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "特朗普参观汽车工厂遭工人辱骂",
+          "url": "https://www.douyin.com/hot/2367043",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "美国总统特朗普：对委内瑞拉的袭击一如既往地完美无瑕，我们正在与委内瑞拉人民合作。",
           "url": "https://flash.jin10.com/detail/20260114030503953800",
           "source": "金十数据",
@@ -140,6 +140,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -201,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时51分]"
         },
         {
           "title": "白宫特使秘密会晤伊朗前王储 特朗普政府重新评估反对派力量",
@@ -275,6 +299,29 @@
           "time_info": "[04时48分 ~ 05时41分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时51分]"
+        },
+        {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
           "url": "https://flash.jin10.com/detail/20260114020240505800",
           "source": "金十数据",
@@ -321,6 +368,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普：我们将撤销任何来自索马里或其他地方、因欺诈我国公民而被判有罪的入籍移民的公民身份。",
@@ -440,17 +499,6 @@
           "time_info": "01时03分"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗问题）最终目标是取得胜利。",
           "url": "https://flash.jin10.com/detail/20260114045804177800",
           "source": "金十数据",
@@ -468,29 +516,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -504,17 +530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普声称：并不认为会（再次迅速）发生美国政府关门事件。",
@@ -970,11 +985,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 13时51分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -983,9 +999,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时51分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1092,7 +1108,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1127,8 +1143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 13时51分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1150,9 +1166,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "苹果联姻谷歌意味着什么",
