@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T16:59:09.275685+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-01-15T17:52:26.628476+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 17时52分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -43,6 +43,30 @@
           "time_info": "[01时02分 ~ 07时31分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 17时52分]"
+        },
+        {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
           "url": "https://news.ifeng.com/c/8puu58c2sSy",
           "source": "凤凰网",
@@ -54,30 +78,6 @@
           "time_info": "[05时41分 ~ 07时31分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时59分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
           "url": "https://wallstreetcn.com/articles/3763310",
           "source": "华尔街见闻",
@@ -86,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时52分]"
         },
         {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
@@ -244,6 +244,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时31分]"
+        },
+        {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时52分]"
         },
         {
           "title": "特朗普称“总会有办法解决”格陵兰岛问题",
@@ -437,17 +449,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
           "title": "美国总统特朗普：已选定新助理司法部长人选",
           "url": "https://flash.jin10.com/detail/20260115044157137800",
           "source": "金十数据",
@@ -534,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "特朗普又打瞌睡还被小女孩发现",
+          "url": "https://www.toutiao.com/trending/7595091508925022244/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美国总统特朗普：（被问及是否排除对伊朗采取军事行动）我们会观察事态发展，然后再做决定。",
@@ -693,7 +705,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -714,8 +726,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时52分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -831,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
+          "url": "https://wallstreetcn.com/livenews/3037834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
@@ -952,11 +975,12 @@
           "ranks": [
             9,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时52分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
