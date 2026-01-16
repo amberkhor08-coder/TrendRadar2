@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T19:36:00.715096+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-01-16T21:52:15.543002+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -19,17 +19,6 @@
           "time_info": "[00时00分 ~ 13时02分]"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时39分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
@@ -40,8 +29,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时01分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[15时01分 ~ 21时52分]"
+        },
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时39分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -79,6 +79,20 @@
           "time_info": "[11时56分 ~ 16时58分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时56分 ~ 21时52分]"
+        },
+        {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
           "url": "https://wallstreetcn.com/articles/3763392",
           "source": "华尔街见闻",
@@ -93,19 +107,6 @@
           "time_info": "[07时38分 ~ 19时36分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时56分 ~ 19时36分]"
-        },
-        {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
           "url": "https://www.zhihu.com/question/1995430633518944539",
           "source": "知乎",
@@ -114,8 +115,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 21时52分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普期望信用卡公司降低成本。",
@@ -138,6 +139,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时50分 ~ 21时52分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
@@ -242,6 +255,18 @@
           "time_info": "[11时56分 ~ 13时02分]"
         },
         {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 21时52分]"
+        },
+        {
           "title": "市场消息：特朗普将指示美国一家关键电网运营机构举行紧急拍卖。",
           "url": "https://flash.jin10.com/detail/20260116063552082800",
           "source": "金十数据",
@@ -278,15 +303,16 @@
           "time_info": "[06时45分 ~ 07时39分]"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时50分 ~ 19时36分]"
+          "time_info": "[19时35分 ~ 21时52分]"
         },
         {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
@@ -359,17 +385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
@@ -468,17 +483,6 @@
           "time_info": "[06时45分 ~ 07时39分]"
         },
         {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
-        },
-        {
           "title": "马查多为何赠特朗普诺贝尔和平奖",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%9F%A5%E5%A4%9A%E4%B8%BA%E4%BD%95%E8%B5%A0%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96",
           "source": "bilibili 热搜",
@@ -518,7 +522,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -529,7 +533,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -556,6 +560,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3038829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "房贷利率跌至三年新低 特朗普2000亿购债计划初见成效",
           "url": "https://flash.jin10.com/detail/20260116010632374800",
           "source": "金十数据",
@@ -576,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "部分美国电力公司股价盘前下跌，因特朗普政府将签署一项遏制电价的协议。Talen能源下跌6.8%，Vistra下跌3.2%，星座能源下跌2.6%。",
+          "url": "https://flash.jin10.com/detail/20260116211411832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "白宫称特朗普正密切关注伊朗局势 并保留所有选项",
@@ -710,6 +736,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：预计将出台有关住房的规定，界定机构投资者的角色。 我们已在就信用卡事宜与大行进行接触。 不认为在信用卡问题上需要立法。 MBS计划的目的是降低抵押贷款利差。 我将和特朗普一同前往达沃斯。",
+          "url": "https://wallstreetcn.com/livenews/3038816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "美国总统特朗普称赞今日股市创新高。",
           "url": "https://flash.jin10.com/detail/20260116053933017800",
           "source": "金十数据",
@@ -719,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普与国会领导人讨论预算调和事宜。最终，共和党高层领导将在该问题上占据上风。",
+          "url": "https://flash.jin10.com/detail/20260116210135001800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -752,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：最高法院作出（不利）裁决后，特朗普可以立即实施10%的关税。",
+          "url": "https://flash.jin10.com/detail/20260116210001930800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "白宫称特朗普及其团队正密切关注伊朗局势",
@@ -826,6 +885,18 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时56分 ~ 21时52分]"
+        },
+        {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -836,18 +907,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时00分 ~ 07时39分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时56分 ~ 19时36分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -1087,8 +1146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时02分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[13时02分 ~ 21时52分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
