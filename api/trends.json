@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T06:56:52.761499+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-01-22T07:49:43.501459+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 99,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -26,8 +26,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
+        },
+        {
+          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
+          "url": "https://wallstreetcn.com/articles/3763814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
         },
         {
           "title": "特朗普：已就格陵兰岛问题形成了协议框架 有关关税不会生效",
@@ -41,15 +64,57 @@
           "time_info": "03时56分"
         },
         {
-          "title": "特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定",
-          "url": "https://flash.jin10.com/detail/20260122063506778800",
-          "source": "金十数据",
+          "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2265606",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
+          "url": "https://www.cls.cn/detail/2265637",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
+        },
+        {
+          "title": "伊朗警告特朗普",
+          "url": "https://www.douyin.com/hot/2375552",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
         },
         {
           "title": "在美国总统特朗普表示已就格陵兰岛交易形成框架后，美债收益率延续跌势；10年期收益率现跌4.2个基点至4.255%。",
@@ -63,26 +128,15 @@
           "time_info": "03时56分"
         },
         {
-          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
-          "url": "https://wallstreetcn.com/articles/3763814",
-          "source": "华尔街见闻",
+          "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
+          "url": "https://www.cls.cn/detail/2265781",
+          "source": "财联社热门",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "据纽约时报：特朗普政府在缅因州启动移民行动。",
@@ -96,66 +150,63 @@
           "time_info": "02时09分"
         },
         {
-          "title": "特朗普称不用武力暂缓加税 丹麦：“夺岛”野心依旧明显",
-          "url": "https://flash.jin10.com/detail/20260122061923646800",
+          "title": "特朗普称希望不会对伊朗进一步行动",
+          "url": "https://flash.jin10.com/detail/20260122072044972800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时49分"
         },
         {
-          "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2265606",
-          "source": "财联社热门",
+          "title": "特朗普收回对欧洲8国关税威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E5%9B%9E%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A8%81%E8%83%81%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
-          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
-          "url": "https://www.cls.cn/detail/2265637",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
-        },
-        {
-          "title": "伊朗警告特朗普",
-          "url": "https://www.douyin.com/hot/2375552",
+          "title": "特朗普称与北约达成格陵兰合作框架",
+          "url": "https://www.douyin.com/hot/2375664",
           "source": "抖音",
           "ranks": [
-            10,
-            9,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
+          "title": "中方回应特朗普称联合国或被取代",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E6%88%96%E8%A2%AB%E5%8F%96%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            14,
-            12,
-            13
+            29,
+            30,
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "time_info": "[03时56分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定",
+          "url": "https://flash.jin10.com/detail/20260122063506778800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
         },
         {
           "title": "特朗普称“欧洲和英国”需在移民和能源问题上“改变做法”",
@@ -242,6 +293,18 @@
           "time_info": "[05时54分 ~ 06时56分]"
         },
         {
+          "title": "特朗普称不用武力暂缓加税 丹麦：“夺岛”野心依旧明显",
+          "url": "https://flash.jin10.com/detail/20260122061923646800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
+        },
+        {
           "title": "德国财政部长：（谈及特朗普的格陵兰岛协议表示）我们还要再等等，不要过早抱有希望。",
           "url": "https://flash.jin10.com/detail/20260122051443285800",
           "source": "金十数据",
@@ -264,19 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时54分]"
-        },
-        {
-          "title": "中方回应特朗普称联合国或被取代",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E6%88%96%E8%A2%AB%E5%8F%96%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时56分 ~ 06时56分]"
         },
         {
           "title": "特朗普就格陵兰问题表态“软化”",
@@ -302,6 +352,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时54分]"
+        },
+        {
+          "title": "美银CEO再遭白宫冷落，缺席达沃斯特朗普招待会",
+          "url": "https://flash.jin10.com/detail/20260122061550982800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
         },
         {
           "title": "美国总统特朗普：人们在信用卡利息上支付了太多费用。 信用卡公司应该给人们一些喘息的机会。",
@@ -340,6 +402,18 @@
           "time_info": "[05时54分 ~ 06时56分]"
         },
         {
+          "title": "据英国《金融时报》：美国总统特朗普在达沃斯举办的招待会将美国银行(BAC.N)CEO莫伊尼汉排除在邀请名单之外。",
+          "url": "https://flash.jin10.com/detail/20260122060759912800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
+        },
+        {
           "title": "美国总统特朗普赞扬苹果和丰田的投资。",
           "url": "https://wallstreetcn.com/livenews/3041454",
           "source": "华尔街见闻-快讯",
@@ -362,6 +436,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
         },
         {
           "title": "美国总统特朗普：如果鲍威尔不离开美联储（即卸任主席后继续担任美联储理事），他的日子不会好过。",
@@ -531,17 +617,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "美银CEO再遭白宫冷落，缺席达沃斯特朗普招待会",
-          "url": "https://flash.jin10.com/detail/20260122061550982800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "美国总统特朗普：正在就“金穹”与格陵兰岛相关的事宜展开进一步讨论。",
           "url": "https://flash.jin10.com/detail/20260122033020041800",
           "source": "金十数据",
@@ -553,15 +628,26 @@
           "time_info": "03时56分"
         },
         {
-          "title": "据英国《金融时报》：美国总统特朗普在达沃斯举办的招待会将美国银行(BAC.N)CEO莫伊尼汉排除在邀请名单之外。",
-          "url": "https://flash.jin10.com/detail/20260122060759912800",
+          "title": "据福克斯新闻：北约秘书长吕特在被问及格陵兰岛是否会继续归属丹麦时表示，这一问题并未在我与美国总统特朗普的对话中提及。",
+          "url": "https://flash.jin10.com/detail/20260122071248487800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时49分"
+        },
+        {
+          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
+          "url": "https://wallstreetcn.com/articles/3763857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "特朗普再谈格陵兰岛问题 排除动用武力可能性",
@@ -584,6 +670,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普称希望不会对伊朗进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3041568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
+          "url": "https://wallstreetcn.com/articles/3763851",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "美国总统特朗普：我们正接近解决乌克兰战争。",
@@ -630,17 +738,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "美国总统特朗普：丹麦外交大臣并没有告诉我“丹方拒绝谈判”。",
           "url": "https://wallstreetcn.com/livenews/3041473",
           "source": "华尔街见闻-快讯",
@@ -650,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "丹麦外相：愿当面告诉特朗普 格陵兰岛主权归属不容谈判",
+          "url": "https://wallstreetcn.com/livenews/3041563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "美国总统特朗普：希望美国白宫国家经济委员会主任哈塞特留任现职，美联储主席人选已缩减至两到三位，我个人认为很可能已锁定最终人选。",
@@ -663,6 +771,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "特朗普再提北约秘书长叫他爸爸",
+          "url": "https://flash.jin10.com/detail/20260122065443877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
           "title": "欧洲军工股普遍收跌，美国总统特朗普在达沃斯改口称“不会武力夺取格陵兰”。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.08%，报34.84欧元，北京时间22:36刷新日低至34.549999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3041472",
           "source": "华尔街见闻-快讯",
@@ -672,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "北约秘书长吕特：与特朗普讨论了北极地区的防务问题。 与特朗普的会谈未涉及丹麦对格陵兰岛的控制。 为确保北极地区的安全，还有很多工作要做。",
+          "url": "https://wallstreetcn.com/livenews/3041562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "美国总统特朗普：将继续对与伊朗开展业务的国家实施关税和制裁。",
@@ -735,7 +865,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -779,7 +909,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -823,7 +953,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -927,6 +1057,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "特朗普：我向欧洲要块领土不过分",
+          "url": "https://www.toutiao.com/trending/7596832777593765930/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
           "title": "美国总统特朗普：看起来我们似乎已就协议框架达成共识。格陵兰协议框架完全符合我们的预期。",
           "url": "https://flash.jin10.com/detail/20260122041037079800",
           "source": "金十数据",
@@ -1007,7 +1148,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1040,9 +1181,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "美股三大股指冲高，涨幅全线扩大至1%。特朗普宣布有关消息，格陵兰岛局势担忧大幅缓解。",
@@ -1054,6 +1206,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
         },
         {
           "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
@@ -1175,17 +1339,6 @@
           "time_info": "02时09分"
         },
         {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "美股涨幅大幅收窄，数字货币大跌",
           "url": "https://wallstreetcn.com/livenews/3041446",
           "source": "华尔街见闻-快讯",
@@ -1203,9 +1356,61 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【苹果计划将 Siri 重塑为内置聊天机器人，以反击 OpenAI】苹果公司计划在今年晚些时候对 Siri 进行重大改组，将其转型为公司首款人工智能聊天机器人，项目代号为“Campos”。该机器人将深度嵌入 iPhone、iPad 和 Mac 操作系统中，并取代现有的 Siri 界面。用户依然可以通过语音指令“Siri”或长按设备侧边键来唤醒这项新服务。这种新方案的能力将远超目前的 Siri，其功能包括：分析屏幕内容、调用个人数据、搜索网页、创作内容、生成图像、总结信息以及分析上传的文件。",
+          "url": "https://wallstreetcn.com/livenews/3041487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "市场消息：OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20260122063100035800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
+        },
+        {
+          "title": "为了500亿美元巨额融资，OpenAI的CEO会见中东投资者",
+          "url": "https://wallstreetcn.com/livenews/3041550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时49分]"
+        },
+        {
+          "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
+          "url": "https://flash.jin10.com/detail/20260122063934524800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         }
       ]
     },
@@ -1260,45 +1465,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【苹果计划将 Siri 重塑为内置聊天机器人，以反击 OpenAI】苹果公司计划在今年晚些时候对 Siri 进行重大改组，将其转型为公司首款人工智能聊天机器人，项目代号为“Campos”。该机器人将深度嵌入 iPhone、iPad 和 Mac 操作系统中，并取代现有的 Siri 界面。用户依然可以通过语音指令“Siri”或长按设备侧边键来唤醒这项新服务。这种新方案的能力将远超目前的 Siri，其功能包括：分析屏幕内容、调用个人数据、搜索网页、创作内容、生成图像、总结信息以及分析上传的文件。",
-          "url": "https://wallstreetcn.com/livenews/3041487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "市场消息：OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。",
-          "url": "https://flash.jin10.com/detail/20260122063100035800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "为了500亿美元巨额融资，OpenAI的CEO会见中东投资者",
-          "url": "https://wallstreetcn.com/livenews/3041550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -1309,11 +1475,12 @@
           "ranks": [
             3,
             13,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 07时49分]"
         }
       ]
     }
