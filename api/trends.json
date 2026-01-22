@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T06:51:15.711996+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-01-23T07:40:50.761602+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -38,11 +38,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -52,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -63,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -74,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -87,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -101,8 +102,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -113,8 +114,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -126,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -140,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
         },
         {
           "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
@@ -153,8 +154,21 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时40分]"
+        },
+        {
+          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时51分]"
+          "time_info": "[03时03分 ~ 07时40分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
@@ -168,27 +182,26 @@
           "time_info": "04时54分"
         },
         {
-          "title": "美国总统特朗普在社交平台发文称，“到处都是创纪录的数字！我应该争取第四个任期吗？”",
-          "url": "https://flash.jin10.com/detail/20260123063348094800",
-          "source": "金十数据",
+          "title": "美众议院未通过旨在限制特朗普对委再动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3042380",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "07时40分"
         },
         {
-          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
-          "source": "澎湃新闻",
+          "title": "美众议院未通过旨在限制特朗普对委再动武的决议",
+          "url": "https://flash.jin10.com/detail/20260123073337444800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            15
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时03分 ~ 06时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "白宫贸易顾问纳瓦罗：本周的美国GDP数据显示，特朗普推动的制造业繁荣逐渐根基稳固。",
@@ -211,6 +224,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发文称，“到处都是创纪录的数字！我应该争取第四个任期吗？”",
+          "url": "https://flash.jin10.com/detail/20260123063348094800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时40分]"
         },
         {
           "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
@@ -247,6 +272,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时45分]"
+        },
+        {
+          "title": "美国总统特朗普：今年将进行大量的竞选旅行。",
+          "url": "https://flash.jin10.com/detail/20260123061420633800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时40分]"
+        },
+        {
+          "title": "美国总统特朗普：反对动用401(k)退休金账户进行住房融资。",
+          "url": "https://flash.jin10.com/detail/20260123060840675800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时40分]"
         },
         {
           "title": "中方回应特朗普达沃斯言论",
@@ -305,24 +354,13 @@
           "time_info": "01时05分"
         },
         {
-          "title": "美国总统特朗普：今年将进行大量的竞选旅行。",
-          "url": "https://flash.jin10.com/detail/20260123061420633800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
           "title": "卡尼反驳特朗普：加拿大的存在并非“仰赖美国”",
           "url": "https://wallstreetcn.com/livenews/3042342",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -349,17 +387,6 @@
           "time_info": "01时05分"
         },
         {
-          "title": "美国总统特朗普：反对动用401(k)退休金账户进行住房融资。",
-          "url": "https://flash.jin10.com/detail/20260123060840675800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
           "title": "格陵兰总理：我们选择丹麦王国。 并不了解美国总统特朗普所谓协议的具体内容。 并不掌握有关矿产资源的会谈内容。 根据现有协议，就能与美国进行“更多的”合作。 美国当前的论调“让人无法接受”。 相信特朗普不会为了吞并格陵兰而动武。 愿意让北约在格陵兰部署“代表团”。",
           "url": "https://wallstreetcn.com/livenews/3042192",
           "source": "华尔街见闻-快讯",
@@ -377,7 +404,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -388,7 +415,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -404,13 +431,24 @@
           "time_info": "04时54分"
         },
         {
+          "title": "美国众议院以微弱优势否决一项决议，旨在约束美国总统特朗普的委内瑞拉战争权力。",
+          "url": "https://flash.jin10.com/detail/20260123063443929800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "美国总统特朗普：（谈及委内瑞拉）我们很快就要开始钻探了。",
           "url": "https://flash.jin10.com/detail/20260123060636005800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -465,7 +503,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -487,7 +525,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -498,7 +536,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -509,7 +547,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -531,7 +569,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -575,7 +613,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -608,7 +646,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -630,7 +668,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -641,7 +679,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -674,7 +712,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         }
@@ -682,7 +720,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -713,11 +751,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时03分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[03时03分 ~ 07时40分]"
         },
         {
           "title": "网络股指数ETF收涨1.9%，领跑美股行业ETF",
@@ -729,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -747,11 +797,12 @@
           "url": "https://flash.jin10.com/detail/20260123062128122800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时40分]"
         },
         {
           "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
@@ -771,7 +822,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -848,7 +899,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -859,7 +910,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -1020,8 +1071,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时03分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[03时03分 ~ 07时40分]"
         }
       ]
     }
