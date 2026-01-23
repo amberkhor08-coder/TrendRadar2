@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T04:49:50.143802+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-24T05:40:42.143406+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访华",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -63,17 +63,6 @@
           "time_info": "[01时02分 ~ 03时03分]"
         },
         {
-          "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
-          "url": "https://wallstreetcn.com/livenews/3043110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -82,8 +71,20 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
+          "url": "https://wallstreetcn.com/livenews/3043110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时49分]"
+          "time_info": "[04时49分 ~ 05时40分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -93,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -105,19 +106,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
           "url": "https://www.toutiao.com/trending/7597629438666358794/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -126,9 +128,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时40分]"
         },
         {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
@@ -137,9 +139,20 @@
           "ranks": [
             14
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时40分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
+          "url": "https://wallstreetcn.com/livenews/3043121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时40分"
         },
         {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
@@ -167,7 +180,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -181,6 +194,17 @@
           "time_info": "[01时02分 ~ 04时49分]"
         },
         {
+          "title": "日常消费品ETF收涨约0.8%，领跑美股行业ETF，半导体ETF跌约0.7%，银行业ETF跌超3.1%",
+          "url": "https://wallstreetcn.com/livenews/3043140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "Sable Offshore（SOC）美股下跌13%。",
           "url": "https://flash.jin10.com/detail/20260124023319046800",
           "source": "金十数据",
@@ -189,8 +213,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收涨约3.3%，亚马逊涨2%",
+          "url": "https://wallstreetcn.com/livenews/3043132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "美股银矿股上涨，Hecla Mining上涨1.3%，Coeur Mining上涨0.3%，ABRDN实物白银股票ETF上涨4%，Global X白银矿业ETF上涨1.8%，iShares白银信托上涨4%。",
@@ -267,37 +302,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
-        },
-        {
-          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3043102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
@@ -309,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美元指数本周跌约1.9%，彭博美元现货指数创5月份以来最差单周表现",
+          "url": "https://wallstreetcn.com/livenews/3043114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
@@ -324,6 +341,36 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
+        },
+        {
+          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3043102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -335,8 +382,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时40分]"
         }
       ]
     }
