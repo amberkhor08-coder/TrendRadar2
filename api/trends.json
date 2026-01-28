@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T22:01:55.620576+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-01-28T23:04:16.815265+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 23时04分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 23时04分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时08分 ~ 17时05分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 22时01分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -64,6 +64,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 15时04分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时04分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时04分]"
         },
         {
           "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
@@ -101,17 +123,6 @@
           "time_info": "07时42分"
         },
         {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
           "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
           "url": "https://flash.jin10.com/detail/20260128123413943800",
           "source": "金十数据",
@@ -145,17 +156,6 @@
           "time_info": "07时42分"
         },
         {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
           "url": "https://flash.jin10.com/detail/20260128030726732800",
           "source": "金十数据",
@@ -167,15 +167,15 @@
           "time_info": "03时17分"
         },
         {
-          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
-          "url": "https://wallstreetcn.com/livenews/3045623",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
+          "url": "https://flash.jin10.com/detail/20260128224419875800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "23时04分"
         },
         {
           "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
@@ -184,7 +184,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -261,6 +261,18 @@
           "time_info": "[06时46分 ~ 07时42分]"
         },
         {
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://wallstreetcn.com/livenews/3045623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 23时04分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普叫停的玛莎葡萄园岛（Martha' s Vineyard）风力发电项目被法官重启。",
           "url": "https://flash.jin10.com/detail/20260128043052698800",
           "source": "金十数据",
@@ -321,6 +333,17 @@
           "time_info": "[06时46分 ~ 07时42分]"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "特朗普：一支舰队正朝着伊朗驶去。",
           "url": "https://flash.jin10.com/detail/20260128071622819800",
           "source": "金十数据",
@@ -363,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：对标普500指数首次触及7000点表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260128223850454800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -525,7 +559,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -580,7 +614,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -657,7 +691,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -684,6 +718,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "巴克莱：受特朗普支持美元走弱的政策推动，投资者对持有美元的额外回报需求正在增长。",
+          "url": "https://flash.jin10.com/detail/20260128221221657800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260128053943397800",
           "source": "金十数据",
@@ -701,7 +746,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         }
@@ -709,7 +754,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -721,6 +766,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 06时46分]"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时04分]"
         },
         {
           "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
@@ -802,28 +859,6 @@
           "time_info": "19时44分"
         },
         {
-          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
           "url": "https://flash.jin10.com/detail/20260128050333486800",
           "source": "金十数据",
@@ -833,6 +868,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 23时04分]"
         },
         {
           "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
@@ -845,6 +892,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时59分 ~ 19时44分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时04分]"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -877,9 +936,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
+        },
+        {
+          "title": "阿斯麦(ASML.O)美股转跌，此前一度涨7.5%。",
+          "url": "https://flash.jin10.com/detail/20260128223835627800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
@@ -888,7 +958,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -904,15 +974,26 @@
           "time_info": "06时46分"
         },
         {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
+          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260128223618828800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "23时04分"
+        },
+        {
+          "title": "美股芯片股大幅走高，超微电脑(SMCI.O)涨1.2%，美光科技(MU.O)涨4%，博通(AVGO.O)涨0.7%，AMD(AMD.O)涨1%，英特尔(INTC.O)涨8.2%。",
+          "url": "https://flash.jin10.com/detail/20260128223449534800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
@@ -921,7 +1002,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -946,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3045636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -979,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美股三大股指高开 芯片股走高",
+          "url": "https://flash.jin10.com/detail/20260128223022828800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
@@ -1020,7 +1123,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         }
@@ -1157,6 +1260,80 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 23时04分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 17时05分]"
+        },
+        {
+          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
+          "url": "https://wallstreetcn.com/livenews/3045639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
+          "url": "https://flash.jin10.com/detail/20260128020246054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3044927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1226,58 +1403,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 22时01分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时05分]"
-        },
-        {
-          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
-          "url": "https://flash.jin10.com/detail/20260128020246054800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
-          "url": "https://wallstreetcn.com/livenews/3044927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
