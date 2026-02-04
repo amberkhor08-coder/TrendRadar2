@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T13:01:46.095975+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-02-04T15:35:56.626955+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -30,6 +30,28 @@
           "time_info": "[01时41分 ~ 07时02分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
+        },
+        {
           "title": "特朗普称正与伊朗进行谈判",
           "url": "https://wallstreetcn.com/livenews/3049367",
           "source": "华尔街见闻-快讯",
@@ -52,17 +74,6 @@
           "time_info": "05时51分"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
           "url": "https://wallstreetcn.com/livenews/3049293",
           "source": "华尔街见闻-快讯",
@@ -74,17 +85,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -94,6 +94,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时02分]"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
+        },
+        {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -108,17 +142,6 @@
           "time_info": "[05时51分 ~ 07时02分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
           "url": "https://flash.jin10.com/detail/20260204031034048800",
           "source": "金十数据",
@@ -130,6 +153,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "特朗普被问及爱泼斯坦案连怼记者",
+          "url": "https://wallstreetcn.com/livenews/3049655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -139,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
@@ -172,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "美国总统特朗普将于美国东部时间下午4:30（北京时间今日05:30）在椭圆形办公室现场签署政府资金法案。",
@@ -257,7 +269,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -279,7 +291,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -452,7 +464,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -484,8 +496,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 15时35分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时02分 ~ 13时01分]"
+          "time_info": "[13时01分 ~ 15时35分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -499,35 +533,13 @@
           "time_info": "03时56分"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
           "url": "https://www.cls.cn/detail/2279689",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -540,8 +552,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 15时35分]"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -580,6 +592,29 @@
           "time_info": "[01时41分 ~ 07时02分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "AMD(AMD.O)美股盘后跌超4.5%。",
           "url": "https://flash.jin10.com/detail/20260204051829095800",
           "source": "金十数据",
@@ -608,7 +643,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -622,17 +657,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -766,11 +790,12 @@
           "url": "https://www.cls.cn/detail/2279758",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时35分]"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -801,7 +826,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -812,7 +837,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -900,17 +925,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
-          "url": "https://flash.jin10.com/detail/20260204012848095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
           "url": "https://wallstreetcn.com/articles/3764858",
           "source": "华尔街见闻",
@@ -920,8 +934,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 13时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 15时35分]"
+        },
+        {
+          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
+          "url": "https://flash.jin10.com/detail/20260204012848095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
