@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:08:05.161510+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-02-09T23:44:40.679764+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -22,6 +22,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时20分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 23时44分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -60,21 +75,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时20分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 22时08分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -120,7 +120,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -272,12 +272,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "据Punchbowl：特朗普将在美国众议院共和党全国委员会（NRCC）的年度三月筹款活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260209225427013800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -314,8 +325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时08分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时44分]"
         },
         {
           "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -329,13 +340,24 @@
           "time_info": "[22时07分 ~ 22时08分]"
         },
         {
+          "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "周一美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3052372",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -395,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3052393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -421,7 +454,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -432,7 +465,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -443,7 +476,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -454,7 +487,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -465,7 +498,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         }
@@ -506,7 +539,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -528,7 +561,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         }
@@ -545,7 +578,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -556,7 +589,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -567,7 +600,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -578,7 +611,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         }
